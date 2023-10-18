@@ -7,16 +7,17 @@ export const Home = () => {
     <div className="   dark:bg-gray-900 dark:text-white transition-colors">
       <DarkModeToggle />
       <h1 className={`text text-center m-5`}>ola mundo 
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis eveniet suscipit iure cumque ducimus, necessitatibus cupiditate, explicabo in officiis nesciunt recusandae officia provident excepturi odit repudiandae, nulla facilis. Sapiente, nam?
-        Eligendi quas magni ipsum praesentium ullam aut cum, debitis qui, libero eveniet deleniti quia laboriosam. Quasi ut corporis perferendis consequuntur error fugit! Magnam vero enim facilis asperiores, nulla alias nesciunt.
-        Aut quam ipsum laboriosam alias minima sint facere! A repellendus nostrum natus cumque nulla numquam aspernatur! Aut pariatur, itaque, dolorum ducimus et accusantium maiores voluptas blanditiis corrupti libero sit maxime?
-        Quam, esse molestias nesciunt quae sed error omnis pariatur consectetur dignissimos ullam! Doloribus, nisi fugit ipsa quidem quisquam voluptatum, reprehenderit quia accusamus impedit id, unde iusto esse ad fuga laborum?
-        Voluptate est libero cum doloremque quae modi omnis nostrum id quia aut nulla non harum sunt quo quidem odit illo, nobis reiciendis dicta odio. Doloribus nostrum ratione perferendis unde quia?
-        Labore at molestias consequuntur nobis asperiores deserunt molestiae, eligendi sed perferendis natus mollitia iusto quasi ullam reprehenderit, culpa maiores reiciendis. Sequi quod rem tempore voluptate, atque provident sit ratione repellat?
-        Quas minima, iusto optio adipisci ad similique voluptas doloribus in. Ad hic et doloremque atque perspiciatis molestias enim ipsa voluptate quaerat, dolorum animi laboriosam reprehenderit suscipit sit dicta assumenda sequi?
-        Magnam ab ullam hic, a unde delectus, sint quasi omnis veritatis possimus quas commodi enim dignissimos eligendi explicabo ipsam sequi aliquid nostrum ipsa reiciendis excepturi atque sunt quaerat! Quasi, temporibus.
-        Soluta deleniti tempore magni obcaecati quo rerum adipisci dolor nam minus possimus et omnis voluptas, dolore labore aut. Unde eius eos dolore soluta quia minima pariatur impedit ipsum iure voluptatibus!</p>
+      
       </h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore ad obcaecati magni nulla modi cumque omnis neque quos culpa impedit alias non esse eaque corrupti, sit maiores minus, doloribus at.
+      Repellendus voluptas perspiciatis aperiam ea labore, rerum fuga incidunt tempore omnis aliquam quidem cum tenetur recusandae blanditiis dolores natus modi necessitatibus rem minus! Sint laboriosam qui fugiat similique corporis vitae!
+      Distinctio quae reiciendis debitis, consequuntur vero laborum temporibus nulla, ipsam facere et animi molestiae rem expedita natus qui quos omnis illo unde dignissimos. Enim, debitis consectetur laboriosam magnam consequatur rerum.
+      Exercitationem distinctio veritatis qui possimus deleniti reiciendis unde autem quidem ipsam assumenda, at earum sapiente quod expedita voluptatibus praesentium eos quis quaerat nam, inventore porro magni optio. Aliquam, illo tenetur.
+      Adipisci dolore enim voluptates officia ducimus aut soluta nesciunt temporibus ex ea nulla, ipsam hic aspernatur autem reiciendis saepe culpa cumque labore corporis ratione maxime. Voluptatum fuga velit itaque magni.
+      Quae id hic placeat dolor. Doloribus autem reprehenderit repellendus porro beatae, accusamus quod quos libero! Mollitia numquam quisquam, consequatur sunt molestias, explicabo quia rerum voluptate, inventore quod aut porro illo?
+      Tempora, veniam impedit ratione, debitis tenetur placeat atque beatae quis molestias nam rerum sunt minima deserunt harum incidunt dolore architecto. Eum itaque eligendi harum assumenda enim at accusantium obcaecati animi?
+      Totam fugiat at quod error minima nulla maxime, eveniet itaque inventore nisi, ipsa ipsum facere repudiandae quas vitae tempore expedita officia molestias repellendus aliquam sapiente et! Modi mollitia eveniet maxime.
+      Numquam, dolores officiis quos dicta distinctio, aperiam libero quo mollitia, delectus assumenda enim eum natus? Dolore expedita, esse ratione sit repellendus aliquid doloribus, voluptatibus, magnam libero cumque amet dolor quod!</p>
       <h2 className='text text-center font-bold text-red-800'>pico</h2>
  
 

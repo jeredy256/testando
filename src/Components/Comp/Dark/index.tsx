@@ -22,7 +22,7 @@ const DarkModeToggle: React.FC = () => {
   }, [darkMode]);
 
   return (
-    <div className="text-right">
+    <div className="text-right ">
       <button
       className={`w-12 h-12 p-2 rounded-full transition-colors duration-300 ${
         darkMode ? 'bg-white text-gray-800' : 'bg-gray-800 text-white'
